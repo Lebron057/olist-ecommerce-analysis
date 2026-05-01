@@ -26,3 +26,5 @@ Thumbs.db
 # Data (arquivos grandes, descomente se necessário)
 # data/raw/
 # data/processed/
+
+*.pkl
